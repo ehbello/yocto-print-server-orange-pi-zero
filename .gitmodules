@@ -6,3 +6,7 @@
 	path = layers/third-party/meta-openembedded
 	url = https://github.com/openembedded/meta-openembedded
 	branch = dunfell
+[submodule "meta-sunxi"]
+	path = layers/bsp/meta-sunxi
+	url = https://github.com/linux-sunxi/meta-sunxi
+	branch = dunfell
