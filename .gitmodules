@@ -10,3 +10,7 @@
 	path = layers/bsp/meta-sunxi
 	url = https://github.com/linux-sunxi/meta-sunxi
 	branch = dunfell
+[submodule "meta-rauc"]
+	path = layers/third-party/meta-rauc
+	url = https://github.com/rauc/meta-rauc
+	branch = dunfell
