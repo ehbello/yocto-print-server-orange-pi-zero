@@ -14,3 +14,7 @@
 	path = layers/third-party/meta-rauc
 	url = https://github.com/rauc/meta-rauc
 	branch = dunfell
+[submodule "meta-rauc-community"]
+	path = layers/third-party/meta-rauc-community
+	url = https://github.com/rauc/meta-rauc-community
+	branch = master
