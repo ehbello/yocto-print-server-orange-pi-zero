@@ -1,5 +1,6 @@
 build/bitbake-cookerdaemon.log
 build/bitbake.lock
+build/buildhistory/
 build/cache/
 build/downloads
 build/sstate-cache/
